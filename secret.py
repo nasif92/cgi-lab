@@ -12,7 +12,6 @@ class FollowingTheTAsInstructionsError(Exception):
         ))
 
 # Delete this line:
-raise FollowingTheTAsInstructionsError
 
 # Edit the following two lines:
 username = "nasif92"
